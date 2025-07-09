@@ -2,3 +2,4 @@ This is the third file.
 
 Making an another changes in Main Branch.
 Trying out different merge Techniques
+This is for Squash Merge
