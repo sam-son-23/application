@@ -1,3 +1,5 @@
 This the sample file b
 
 Few changes post creating remote repo
+
+This is for Squash merge
