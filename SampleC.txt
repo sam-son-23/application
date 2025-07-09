@@ -1,1 +1,2 @@
-This is the third file
+This is the third file.
+Trying out different merge Techniques
